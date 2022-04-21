@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Classes/CSharp/bin/Debug/net6.0/CSharp.dll",
+            "program": "${workspaceFolder}/Classes/CSharpFundamentals/bin/Debug/net6.0/CSharpFundamentals.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Classes/CSharp",
+            "cwd": "${workspaceFolder}/Classes/CSharpFundamentals",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
