@@ -1,3 +1,4 @@
+//2. Write a C# program to check if entered alphabet is vowel or not?
 using System;
  
 public class VORC
