@@ -1,6 +1,6 @@
 using System;
  
-public class VorU
+public class VORU
 {
     static void Main(string[] args)
     {
