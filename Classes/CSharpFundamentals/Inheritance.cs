@@ -16,12 +16,12 @@ public class BasicCalculator
         namespace Inheritance;
         public class Converter
             {
-                public string fromunits;
-                public string tounits;
-                public double fromunitValue;
-                public double tounitValue;
+                public string fromUnits;
+                public string toUnits;
+                public double fromUnitValue;
+                public double toUnitValue;
                 public double convert()
                     {
-                        
+                        return fromUnit
                     }
             }
