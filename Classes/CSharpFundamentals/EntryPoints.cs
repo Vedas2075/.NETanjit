@@ -4,7 +4,7 @@
 // s = m1.Sum(34.21);
 // s = m1.Sum(2.3, 4.6, 12.44);
 
-// var x = m1.Greet("Anjit", "Silwal", "Dr.");
+// var x = m1.Greet("Anjit", "Silwal", "Dr. ");
 // x = m1.Greet("Anjit", "Silwal");
 // Console.WriteLine(x);
 
