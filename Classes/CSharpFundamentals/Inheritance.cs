@@ -20,8 +20,22 @@ public class BasicCalculator
                 public string toUnits;
                 public double fromUnitValue;
                 public double toUnitValue;
-                public double convert()
-                    {
-                        return fromUnit
-                    }
+               
             }
+
+            public class LengthConverter: Converter
+                {
+                    public double convert(string fromUnit, string to Unit)
+                        {
+                            if(fromUnit == "cm" && toUnits == "m")
+                                {
+                                    return fromUnitValue /100;
+                                }
+
+                                else if (fromUnit =="m") && toUnits == "cm")
+                                {
+                                    
+                                }
+                        }
+                    
+                }
