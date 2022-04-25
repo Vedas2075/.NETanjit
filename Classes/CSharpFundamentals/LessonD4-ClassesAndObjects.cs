@@ -3,10 +3,6 @@
 namespace ABC;
 public class BasicCalculator
 {   
-    public BasicCalculator(double op1, double op2)
-    {
-        
-    } 
 
     public BasicCalculator(double op1, double op2)
     {

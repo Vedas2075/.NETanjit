@@ -1,4 +1,4 @@
-namespace Interitance ;
+/*namespace Interitance ;
 public class BasicCalculator
     {
         public string brand = string.Empty;
@@ -11,3 +11,17 @@ public class BasicCalculator
         {
             public double Sin(double angle ) => Math.Sin(angle);
         }
+        */
+
+        namespace Inheritance;
+        public class Converter
+            {
+                public string fromunits;
+                public string tounits;
+                public double fromunitValue;
+                public double tounitValue;
+                public double convert()
+                    {
+                        
+                    }
+            }
