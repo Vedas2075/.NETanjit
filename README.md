@@ -1,3 +1,3 @@
 # Anjit Silwal
-hello CSharp
+CSharp
 dotnet
