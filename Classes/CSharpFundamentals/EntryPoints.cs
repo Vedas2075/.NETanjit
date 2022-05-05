@@ -11,39 +11,53 @@
 // public class Program
 // {
 //     public static void Main()
-//     {
-//         Calculator calculator1 = new();
-//         calculator1.operand1 = 31.7;
-//         calculator1.operand1 = 89.7;
-//         var s = calculator1.Sum();
-//         var d = calculator1.Subtract();
-//         var m = calculator1.Multiply();
-//         var di = calculator1.Divide();
 
-//         Calculator calculator2 = new(43.6, 76.3);
+        usng ABC; 
+        using Inheritance;
+        public classs Program
+        {
+            public static void Main()
+            {
+                Rectangle rect1 = new(34.5 , 20);
+                var x = rect1.GetArea;
+
+                square sq1 = new(20);
+                var y = sq1.GetArea();
+            }
+        }
+// //     {
+// //         Calculator calculator1 = new();
+// //         calculator1.operand1 = 31.7;
+// //         calculator1.operand1 = 89.7;
+// //         var s = calculator1.Sum();
+// //         var d = calculator1.Subtract();
+// //         var m = calculator1.Multiply();
+// //         var di = calculator1.Divide();
+
+// //         Calculator calculator2 = new(43.6, 76.3);
+// //         var s2 = calculator1.Sum();
+// //         var d2 = calculator1.Subtract();
+// //         var m2 = calculator1.Multiply();
+// //         var di2 = calculator1.Divide();
+
+
+
+
+
+// //     }
+// // }
+
+// using ABC;
+// public class Program
+// {
+//     public static void Main()
+//     {
+//         BasicCalculator calculator1 = new(34.6, 35.6);
+//         var y = BasicCalculator.brand;
+
 //         var s2 = calculator1.Sum();
 //         var d2 = calculator1.Subtract();
 //         var m2 = calculator1.Multiply();
 //         var di2 = calculator1.Divide();
-
-
-
-
-
 //     }
 // }
-
-using ABC;
-public class Program
-{
-    public static void Main()
-    {
-        BasicCalculator calculator1 = new(34.6, 35.6);
-        var y = BasicCalculator.brand;
-
-        var s2 = calculator1.Sum();
-        var d2 = calculator1.Subtract();
-        var m2 = calculator1.Multiply();
-        var di2 = calculator1.Divide();
-    }
-}
